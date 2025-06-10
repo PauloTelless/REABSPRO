@@ -21,7 +21,7 @@ export const exerciseCategories: ExerciseCategory[] = [
       {
         id: 'flexao-isquiotibiais',
         name: 'Flexão de isquiotibiais',
-        videoUrl: 'https://youtube.com/shorts/cHu5wHeBltY?si=ffzLPmdGmlh-BnyG',
+        videoUrl: 'https://youtu.be/gas5utnp1-M?si=ZTmYriScY4f0Q86D',
         description: 'Em pé, segure-se em um apoio e dobre o joelho, trazendo o calcanhar em direção ao glúteo. Mantenha a posição e depois retorne à posição inicial.'
       }
     ]
@@ -40,7 +40,7 @@ export const exerciseCategories: ExerciseCategory[] = [
       {
         id: 'deslizamento-parede',
         name: 'Deslizamento de ombro na parede',
-        videoUrl: 'https://youtube.com/shorts/SaEMO2m15a0?si=XfGJOxAh0OoIywNy',
+        videoUrl: 'https://youtu.be/Vt1TmUnpqFY?si=X-wrgP-_eF1XYdzo',
         description: 'De frente para a parede, deslize o braço para cima usando os dedos. Vá o mais alto possível sem dor e retorne à posição inicial.'
       },
       {
@@ -59,7 +59,7 @@ export const exerciseCategories: ExerciseCategory[] = [
       {
         id: 'flexao-tornozelos',
         name: 'Flexão de tornozelos',
-        videoUrl: 'https://youtube.com/shorts/EdmC4dJBdgs?si=x8qH7-H1Vo3Mof6b',
+        videoUrl: 'https://youtu.be/svUcvzOoLrE?si=ZvJd0ZYUYrZmy0cd',
         description: 'Sentado com a perna estendida, mova o pé para cima e para baixo, flexionando e estendendo o tornozelo.'
       },
       {
@@ -97,7 +97,7 @@ export const exerciseCategories: ExerciseCategory[] = [
       {
         id: 'desvio-radial-ulnar',
         name: 'Desvio de rádio e ulnar',
-        videoUrl: 'https://youtube.com/shorts/EhLIiNOl8pU?si=g5ZpxyD-RiUMKXGG',
+        videoUrl: 'https://youtu.be/PbbPFSDGOT8?si=rkNSpUgiA-BXNpIT',
         description: 'Com o antebraço apoiado e a mão para fora da superfície, mova o punho de um lado para o outro lateralmente.'
       },
       {
